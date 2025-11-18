@@ -16,7 +16,7 @@ instances:
     
   - name: "Squid 4 [Betatest]"
     image: "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/imagen_2025-11-18_062115113.png"
-    path: "./Squid4 test
+    path: "./Squid4 test"
     version: "fabric-loader-0.17.2-1.19.4"
 
 
