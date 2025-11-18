@@ -1,26 +1,6 @@
 instances:
-  - name: "Sandbox 1.19.4"
-    image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
-    path: "./Sandbox 1.19.4"
-    version: "fabric-loader-0.16.14-1.19.4"
-    dropboxUrl: "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=e9t4f7oj&dl=1"
-    
-  - name: "The Backrooms Vol.2"
-    image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/fondo.png"
-    path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\The Backrooms Vol.2"
-    version: "fabric-loader-0.16.14-1.19.4"
-    dropboxUrl: ""
-
-  - name: "Laser tag"
-    image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/laser%20craft%20tag.png"
-    path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\Laser tag"
-    version: "fabric-loader-0.17.2-1.19.4"
-    dropboxUrl: ""
-    
-  - name: "Squid 4 [Betatest]"
-    image: "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/imagen_2025-11-18_062115113.png"
-    path: "./Squid4 test"
-    version: "fabric-loader-0.17.2-1.19.4"
-    dropboxUrl: ""
-
-
+- name: TEST
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiW82ii8uQyVfgFCWqkYgJ6y0I-rRmJXmnuQ&s
+  path: ./test
+  version: 1.16.5
+  dropboxUrl: ''
