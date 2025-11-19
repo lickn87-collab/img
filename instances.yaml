@@ -1,6 +1,1 @@
-instances:
-- name: TEST1
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiW82ii8uQyVfgFCWqkYgJ6y0I-rRmJXmnuQ&s
-  path: ./test
-  version: 1.16.5
-  dropboxUrl: ''
+instances: []
