@@ -1,12 +1,6 @@
-instances: 
-          - name: "Laser tag"
-            image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/laser%20craft%20tag.png" 
-            path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\Laser tag" 
-            version: "fabric-loader-0.17.2-1.19.4" 
-            dropboxurl: "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=3bp3i43b&dl=1"
-
-
-
-
-
-
+instances:
+  - name: "Laser tag"
+    image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/laser%20craft%20tag.png"
+    path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\Laser tag"
+    version: "fabric-loader-0.17.2-1.19.4"
+    dropboxUrl: ""
