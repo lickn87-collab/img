@@ -3,5 +3,4 @@ instances:
     image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/laser%20craft%20tag.png"
     path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\Laser tag"
     version: "fabric-loader-0.17.2-1.19.4"
-    dropboxurl: ""
-
+    dropboxZipUrl: ""
