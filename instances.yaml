@@ -1,8 +1,9 @@
 instances:
   - name: "SandBox 1.19.4"
     image: "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.1294c251.png"
-    path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\Laser tag"
+    path: "./SandBox 1.19.4"
     version: "fabric-loader-0.16.4-1.19.4"
     dropboxZipUrl: "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=59ax3wwn&dl=1"
+
 
 
