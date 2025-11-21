@@ -1,9 +1,10 @@
 instances:
   - name: "Backrooms"
     image: "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.1294c251.png"
-    path: "./Backrooms"
+    path: "C://Users//martin//AppData//Local//Programs//studio.euphonic.client//instances//Backrooms"
     version: "fabric-loader-0.16.14-1.19.4"
-    dropboxZipUrl: "https://www.dropbox.com/scl/fi/b2o7rc0jzw9n40ghzt0ve/Backrooms.zip?rlkey=d23cmuo1w77byvu1vxiac1qhi&st=rzrr1fvy&dl=1"
+
+
 
 
 
