@@ -1,8 +1,10 @@
 instances:
   - name: "Backrooms"
+    icon: "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/Proyecto%20nuevo%20(4).png"
     image: "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/Proyecto%20nuevo%20(4).png"
     path: "C://Users//martin//AppData//Local//Programs//studio.euphonic.client//instances//Backrooms"
     version: "fabric-loader-0.16.14-1.19.4"
+
 
 
 
