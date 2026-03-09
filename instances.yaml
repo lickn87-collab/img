@@ -1,9 +1,10 @@
 instances:
-  - name: "Backrooms"
+  - name: "XD"
     icon: "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/Proyecto%20nuevo%20(4).png"
     image: "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/Proyecto%20nuevo%20(4).png"
     dropboxUrl: "https://www.dropbox.com/scl/fi/b2o7rc0jzw9n40ghzt0ve/Backrooms.zip?rlkey=d23cmuo1w77byvu1vxiac1qhi&st=0r2k4axg&dl=1"
     version: "fabric-loader-0.16.14-1.19.4"
+
 
 
 
