@@ -1,0 +1,22 @@
+schema_version = 1
+
+[[instances]]
+id = "backrooms-vol2"
+name = "THE BACKROOMS vol. 2"
+description = "Explora los Backrooms. Vol. 2"
+logo = "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.e544faf8.png"
+background = "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.e544faf8.png"
+accent_color = "#e11d8a"
+# Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
+zip_url = "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=msarf0lf&dl=1"
+mc_version = "1.19.4"
+loader = "fabric"
+loader_version = "0.16.14"
+
+# [[instances]]
+# id = "otra-instancia"
+# name = "Otra Instancia"
+# logo = "..."
+# background = "..."
+# accent_color = "#c026d3"
+# zip_url = "https://..."
