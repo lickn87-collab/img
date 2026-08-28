@@ -3,6 +3,7 @@ schema_version = 1
 [[instances]]
 id = "backrooms-vol2"
 name = "THE BACKROOMS vol. 2"
+accent_color = "#e8a04a"
 description = "Explora los Backrooms. Vol. 2"
 logo = "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.e544faf8.png"
 background = "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.e544faf8.png"
