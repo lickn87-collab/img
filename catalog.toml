@@ -1,4 +1,11 @@
 schema_version = 1
+enabled = true
+#access_mode = "open"
+ access_mode = "whitelist"
+ allowed_users = ["Over_Byte4"]
+ access_message = "No autorizado
+La pertenencia a instancias está restringida en este momento. Si esperas participar en un evento, proporciona tu nombre de usuario de Minecraft al organizador mediante el canal de Discord correspondiente."
+
 
 [[instances]]
 id = "backrooms-vol2"
