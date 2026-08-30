@@ -3,14 +3,14 @@ enabled = true
 access_mode = "open"
 
 [[instances]]
-id = "backrooms-vol2"
-name = "THE BACKROOMS vol. 2"
-description = "Explora los Backrooms. Vol. 2"
-logo = "https://drive.google.com/u/0/drive-viewer/AKGpihado-iuhNPL2xAzuIUPAQ2-D2097TZFsoQue9vej9HHXNdMW8q3Abga3KoVxTvP5JJeW660FJbCDC2GMTv55Gnku3NwPYj7rg=s2560?auditContext=forDisplay"
-background = "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.e544faf8.png"
+id = "backrooms"
+name = "THE BACKROOMS vol. 3"
+description = "Explora los Backrooms. Vol. 3"
+logo = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/image.png"
+background = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/fondo.png"
 accent_color = "#e8a04a"
 # Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
-zip_url = "https://www.dropbox.com/scl/fi/84a542v7siwl5t4oa62ah/019c3a678d0071a2a71c6f003bc4c9f4.zip?rlkey=rtl4hx4ooia39jlh09f5qpnm2&st=l38cyg3t&dl=1"
+zip_url = "https://www.dropbox.com/scl/fi/9sniyjl2c3xtdlul87jlr/019c3a678d0071a2a71c6f003bc4c9f4.zip?rlkey=z3gvi7sbo093n9c0o3x33yfoe&st=ry7ng315&dl=1"
 mc_version = "1.21.1"
 loader = "fabric"
 loader_version = "0.18.4"
