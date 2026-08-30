@@ -1,7 +1,6 @@
 schema_version = 1
 enabled = true
 access_mode = "open"
-#ss
 
 [[instances]]
 id = "backrooms-vol2"
@@ -28,7 +27,6 @@ zip_url = "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.z
 mc_version = "1.19.4"
 loader = "fabric"
 loader_version = "0.16.14"
-
 
 [[instances]]
 id = "wdw"
