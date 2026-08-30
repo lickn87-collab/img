@@ -7,7 +7,7 @@ access_mode = "open"
 id = "backrooms-vol2"
 name = "THE BACKROOMS vol. 2"
 description = "Explora los Backrooms. Vol. 2"
-logo = "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/image.png"
+logo = "https://drive.google.com/file/d/1RRIod2AFLEz1sluvlXAgImXksRI-DDaK/view"
 background = "https://eufonia.studio/cdn-cgi/image/width=3840,quality=75,format=auto/_next/static/media/01_backrooms2.e544faf8.png"
 accent_color = "#e8a04a"
 # Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
