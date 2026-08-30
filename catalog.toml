@@ -31,7 +31,7 @@ loader_version = "0.16.14"
 [[instances]]
 id = "frutigeraero"
 name = "Frutiger Aero"
-logo = "https://imgs.search.brave.com/lMElxOLCoDc60e7xCvAr0l1l96_kp15tKV7iKMxK-1A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg3L2E1/L2NhLzg3YTVjYWFj/MWIxYjdkNTdjNjgx/MTgyNTBkMjc0YWY2/LmpwZw"
+logo = "https://drive.google.com/u/0/drive-viewer/AKGpihado-iuhNPL2xAzuIUPAQ2-D2097TZFsoQue9vej9HHXNdMW8q3Abga3KoVxTvP5JJeW660FJbCDC2GMTv55Gnku3NwPYj7rg=s2560?auditContext=forDisplay"
 background = "https://imgs.search.brave.com/JqL0JEQB7fWWpyNN4lJTFhSG2fFssVh5bypBCccHsFY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEzODY1/OTk4LnBuZw"
 accent_color = "#0689e4"
 # Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
