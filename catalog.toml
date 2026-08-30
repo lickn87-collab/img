@@ -28,3 +28,15 @@ zip_url = "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.z
 mc_version = "1.19.4"
 loader = "fabric"
 loader_version = "0.16.14"
+
+[[instances]]
+id = "frutigeraero"
+name = "Frutiger Aero"
+logo = "https://imgs.search.brave.com/lMElxOLCoDc60e7xCvAr0l1l96_kp15tKV7iKMxK-1A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg3L2E1/L2NhLzg3YTVjYWFj/MWIxYjdkNTdjNjgx/MTgyNTBkMjc0YWY2/LmpwZw"
+background = "https://imgs.search.brave.com/JqL0JEQB7fWWpyNN4lJTFhSG2fFssVh5bypBCccHsFY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEzODY1/OTk4LnBuZw"
+accent_color = "#0689e4"
+# Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
+zip_url = "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=msarf0lf&dl=1"
+mc_version = "1.19.4"
+loader = "fabric"
+loader_version = "1.16.14"
