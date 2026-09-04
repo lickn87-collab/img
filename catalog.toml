@@ -28,14 +28,3 @@ mc_version = "1.19.4"
 loader = "fabric"
 loader_version = "0.16.14"
 
-[[instances]]
-id = "wdw"
-name = "wdw"
-logo = "https://previews.dropbox.com/p/thumb/ADGituBCIQCz8LKK54yF8gwO5FxJu8CtLs1KvgFKXGv7jT861VbCTr7_EuApM1sowWdLAiqZNvM5TTFylYN3SkZyjn6QX3-q98p0FTFJ0VkUzYv1F93vcZdDDoWwEu3UdGZ7v8w9Ej7ZIouNUR6pjH7dYLTdMk8rA7_NnIZyG6toLnd2B_BdRUrgq9-7kCzJ9vlGcyujyR8chP50Dsq5lnTvLowyfFDTcSPWp1eirBTpsn15UIG2bpa-WQGeH7n-2VJ3uT7t1SZlSYqn04KjVQryPufml7GKRJ6Hws_kcXPTMVxj9HMsET4xHFvXyY0w1ghO4tXgc9GXP5Sxvdup8RP3/p.png?is_prewarmed=true"
-background = "https://previews.dropbox.com/p/thumb/ADGituBCIQCz8LKK54yF8gwO5FxJu8CtLs1KvgFKXGv7jT861VbCTr7_EuApM1sowWdLAiqZNvM5TTFylYN3SkZyjn6QX3-q98p0FTFJ0VkUzYv1F93vcZdDDoWwEu3UdGZ7v8w9Ej7ZIouNUR6pjH7dYLTdMk8rA7_NnIZyG6toLnd2B_BdRUrgq9-7kCzJ9vlGcyujyR8chP50Dsq5lnTvLowyfFDTcSPWp1eirBTpsn15UIG2bpa-WQGeH7n-2VJ3uT7t1SZlSYqn04KjVQryPufml7GKRJ6Hws_kcXPTMVxj9HMsET4xHFvXyY0w1ghO4tXgc9GXP5Sxvdup8RP3/p.png?is_prewarmed=true"
-accent_color = "#e8a04a"
-# Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
-zip_url = "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=msarf0lf&dl=1"
-mc_version = "1.21.1"
-loader = "fabric"
-loader_version = "1.18.4"
