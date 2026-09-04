@@ -1,5 +1,5 @@
 schema_version = 1
-enabled = true
+enabled = false
 access_mode = "open"
 
 [[instances]]
