@@ -10,7 +10,7 @@ logo = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/i
 background = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/fondo.png"
 accent_color = "#e8a04a"
 # Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
-zip_url = "https://www.dropbox.com/scl/fi/bx2ef8lnbw4cmgsa1s4ik/backrooms.zip?rlkey=fykls41kn49156zggsfjbv35i&st=inomrubb&dl=0"
+zip_url = ""
 mc_version = "1.21.1"
 loader = "fabric"
 loader_version = "0.18.4"
