@@ -1,6 +1,7 @@
 schema_version = 1
 enabled = true
 access_mode = "open"
+bot_api_url = "https://redesigned-xylophone-97r9g7w545r6cj59-8787.app.github.dev/api/access"
 
 [[instances]]
 id = "backrooms"
