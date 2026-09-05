@@ -16,11 +16,11 @@ loader = "fabric"
 loader_version = "0.18.4"
 
 [[instances]]
-id = "eubones2"
-name = "Uebones Show 4"
+id = "whiterooms"
+name = "white rooms"
 description = "pvp epico"
 logo = "https://imgs.search.brave.com/6tBLotRtUgz4T23OsaaCEjCGebEvQWrxVPjO6YYGANw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ldWZv/bmlhLnN0dWRpby9j/ZG4tY2dpL2ltYWdl/L3dpZHRoPTM4NDAs/cXVhbGl0eT03NSxm/b3JtYXQ9YXV0by9f/bmV4dC9zdGF0aWMv/bWVkaWEvc3F1YXJl/LmI5ZGYyNzdmLnBu/Zw"
-background = "https://eufonia.studio/cdn-cgi/image/quality=75,format=auto,width=2560/images/minecraft/34_webones_show/mr_webon.png"
+background = "https://eufonia.studio/cdn-cgi/image/width=1920,quality=75,format=auto/_next/static/media/17.d0cbbd8e.png"
 accent_color = "#e11d8a"
 # Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
 zip_url = "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=msarf0lf&dl=1"
