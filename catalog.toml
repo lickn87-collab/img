@@ -10,14 +10,14 @@ logo = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/i
 background = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/fondo.png"
 accent_color = "#e8a04a"
 # Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
-zip_url = "https://www.dropbox.com/scl/fi/rdui76vylzmb2bhqqvbo7/backrooms.zip?rlkey=sm89w1kzattjv1dpsogbbbxha&st=4p4gjpfp&dl=1"
+zip_url = "https://www.dropbox.com/scl/fi/of3iqgq7o3zfzo97wyydv/019c3a678d0071a2a71c6f003bc4c9f4.zip?rlkey=wibw7pm3h2h1qxatsarn4b5he&st=fv8xn79g&dl=0"
 mc_version = "1.21.1"
 loader = "fabric"
 loader_version = "0.18.4"
 
 [[instances]]
 id = "eubones2"
-name = "Uebones Show"
+name = "Uebones Show 4"
 description = "pvp epico"
 logo = "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/WBNS_Show_pfp.webp"
 background = "https://eufonia.studio/cdn-cgi/image/quality=75,format=auto,width=2560/images/minecraft/34_webones_show/mr_webon.png"
