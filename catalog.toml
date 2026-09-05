@@ -10,15 +10,15 @@ logo = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/i
 background = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/fondo.png"
 accent_color = "#e8a04a"
 # Enlace directo de Dropbox (el launcher convierte dl=0 → dl=1 automáticamente)
-zip_url = "https://www.dropbox.com/scl/fi/of3iqgq7o3zfzo97wyydv/019c3a678d0071a2a71c6f003bc4c9f4.zip?rlkey=wibw7pm3h2h1qxatsarn4b5he&st=fv8xn79g&dl=0"
+zip_url = "https://www.dropbox.com/scl/fi/9ow0cor0wn6qcu3as174z/019c3a678d0071a2a71c6f003bc4c9f4.zip?rlkey=96wkyxjf8quy08lw5dazskwvc&st=slh6x20h&dl=1"
 mc_version = "1.21.1"
 loader = "fabric"
 loader_version = "0.18.4"
 
 [[instances]]
 id = "whiterooms"
-name = "white rooms"
-description = "pvp epico"
+name = "White Rooms"
+description = ""
 logo = "https://imgs.search.brave.com/6tBLotRtUgz4T23OsaaCEjCGebEvQWrxVPjO6YYGANw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ldWZv/bmlhLnN0dWRpby9j/ZG4tY2dpL2ltYWdl/L3dpZHRoPTM4NDAs/cXVhbGl0eT03NSxm/b3JtYXQ9YXV0by9f/bmV4dC9zdGF0aWMv/bWVkaWEvc3F1YXJl/LmI5ZGYyNzdmLnBu/Zw"
 background = "https://eufonia.studio/cdn-cgi/image/width=1920,quality=75,format=auto/_next/static/media/17.d0cbbd8e.png"
 accent_color = "#e11d8a"
