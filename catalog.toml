@@ -4,7 +4,7 @@ access_mode = "open"
 
 [[instances]]
 id = "backrooms"
-name = "THE BACKROOMS vol. 3"
+name = "Bakcrooms"
 description = "Explora los Backrooms. Vol. 3"
 logo = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/image.png"
 background = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/fondo.png"
