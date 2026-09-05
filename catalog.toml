@@ -19,3 +19,18 @@ loader_version = "0.18.4"
 
 bot = true
 
+[[instances]]
+id = "whiterooms"
+name = "White Rooms"
+description = ""
+logo = "https://imgs.search.brave.com/6tBLotRtUgz4T23OsaaCEjCGebEvQWrxVPjO6YYGANw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ldWZv/bmlhLnN0dWRpby9j/ZG4tY2dpL2ltYWdl/L3dpZHRoPTM4NDAs/cXVhbGl0eT03NSxm/b3JtYXQ9YXV0by9f/bmV4dC9zdGF0aWMv/bWVkaWEvc3F1YXJl/LmI5ZGYyNzdmLnBuZw"
+background = "https://eufonia.studio/cdn-cgi/image/width=1920,quality=75,format=auto/_next/static/media/17.d0cbbd8e.png"
+accent_color = "#e11d8a"
+
+zip_url = "https://www.dropbox.com/scl/fi/uje9rx0w9hrqo9n6giy1x/Sandbox-1.19.4.zip?rlkey=r6bhr5z0hi151o44zlumm945o&st=msarf0lf&dl=1"
+
+mc_version = "1.19.4"
+loader = "fabric"
+loader_version = "0.16.14"
+
+bot = false
