@@ -17,7 +17,7 @@ loader_version = "0.18.4"
 
 [[instances]]
 id = "eubones2"
-name = "Uebones Show 2"
+name = "Uebones Show"
 description = "pvp epico"
 logo = "https://raw.githubusercontent.com/lickn87-collab/img/refs/heads/main/WBNS_Show_pfp.webp"
 background = "https://eufonia.studio/cdn-cgi/image/quality=75,format=auto,width=2560/images/minecraft/34_webones_show/mr_webon.png"
