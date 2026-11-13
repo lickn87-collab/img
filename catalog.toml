@@ -1,5 +1,5 @@
 schema_version = 1
-enabled = false
+enabled = true
 access_mode = "open"
 bot_api_url = "https://codespaces-e967be.tail9990f0.ts.net/api/access"
 
