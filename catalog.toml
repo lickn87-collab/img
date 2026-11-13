@@ -4,22 +4,6 @@ access_mode = "open"
 bot_api_url = "https://codespaces-e967be.tail9990f0.ts.net/api/access"
 
 [[instances]]
-id = "backrooms"
-name = "Bakcrooms"
-description = "Explora los Backrooms. Vol. 3"
-logo = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/image.png"
-background = "https://raw.githubusercontent.com/lickn87-collab/dcore/refs/heads/main/fondo.png"
-accent_color = "#e8a04a"
-
-zip_url = "https://www.dropbox.com/scl/fi/9ow0cor0wn6qcu3as174z/019c3a678d0071a2a71c6f003bc4c9f4.zip?rlkey=96wkyxjf8quy08lw5dazskwvc&st=slh6x20h&dl=1"
-
-mc_version = "1.21.1"
-loader = "fabric"
-loader_version = "0.18.4"
-
-bot = true
-
-[[instances]]
 id = "whiterooms"
 name = "White Rooms"
 description = ""
