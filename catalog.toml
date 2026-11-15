@@ -14,3 +14,14 @@ zip_url = "https://www.dropbox.com/scl/fi/fkbgrqrahtbnm2snxi3gq/Fabric-1.20.1.zi
 mc_version = "1.20.1"
 loader = "fabric"
 loader_version = "0.19.5"
+
+[[instances]]
+id = "dreamcore"
+name = "DreamCore"
+logo = "https://imgs.search.brave.com/gqLvkUNoGyPG9fkv_9Aeo3JWzGWBfRPyy5EEFXWD2Bo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9zdXJy/ZWFsLWRyZWFtY29y/ZS1zY2VuZS13aGVy/ZS1zaW1wbGUtY2xv/c2V0LWRvb3Itb3Bl/bnMtZW5kbGVzcy1z/bm93eS10dW5kcmEt/bGFuZHNjYXBlLWFp/LWdlbmVyYXRlZC1s/b25lLXdvb2Rlbi1j/aGFpci00NDkyMzI5/MzQuanBn"
+background = "https://imgs.search.brave.com/YxKf1UlWuDyrV5ey6d_1SG4GP9Eu9l2wM7SjsdJiiEw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hZXN0/aGV0aWMtZ3VpZGUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI2LzAzL3UzNDky/MTczOTg5X0Ffd2hp/dGVfZG9vcl9mbG9h/dGluZ19pbl90aGVf/bWlkZGxlX29mX2Fu/X2VuZGxlc3NfMTZm/YWNhZmMtM2I3NS00/NDI0LThiNzQtYTU1/MTMyYTZmMmYwXzMt/MTAyNHg1NzQuanBn"
+accent_color = "#e8a04a"
+zip_url = "https://www.dropbox.com/scl/fi/rhkzvo1s90jqx8la740y6/horror-mc.zip?rlkey=gauizl3wje71a1sfdjnuqdilt&st=lvg1o4gp&dl=1"
+mc_version = "1.20.1"
+loader = "fabric"
+loader_version = "0.19.5"
